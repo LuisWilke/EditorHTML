@@ -12,3 +12,4 @@ C:\Users\Luis\Documents\Desenvolvimento\.NET\EditorHTML\obj\Debug\net8.0\refint\
 C:\Users\Luis\Documents\Desenvolvimento\.NET\EditorHTML\obj\Debug\net8.0\EditorHTML.pdb
 C:\Users\Luis\Documents\Desenvolvimento\.NET\EditorHTML\obj\Debug\net8.0\EditorHTML.genruntimeconfig.cache
 C:\Users\Luis\Documents\Desenvolvimento\.NET\EditorHTML\obj\Debug\net8.0\ref\EditorHTML.dll
+C:\Users\Luis\Documents\Desenvolvimento\.NET\EditorHTML\obj\Debug\net8.0\EditorHTML.sourcelink.json
